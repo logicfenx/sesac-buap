@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/sesac-buap",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a sesac-buap",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/sesac-buap.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/sesac-buap/"
+    },
+    "homepage": "https://bitcu.co/sesac-buap/"
+}
